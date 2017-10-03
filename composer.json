@@ -1,0 +1,12 @@
+{
+    "name": "ddelrio1986/vagrant-ubuntu-php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Del Rio",
+            "email": "ddelrio1986@gmail.com"
+        }
+    ],
+    "require": {}
+}
